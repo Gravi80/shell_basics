@@ -11,3 +11,4 @@ bash script.sh
 
 #you can also make ur script file as executable
 chmod 755 script.sh
+chmod +x script.sh
