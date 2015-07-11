@@ -1,0 +1,11 @@
+Ctrl+A: move to the start of the current line
+
+Ctrl+E: move to the end of the line
+
+Ctrl+W: cut only the word before the cursor.
+
+Ctrl+K: cut the text of the current command after the cursor.
+
+Ctrl+U: kill the line.
+
+Alt+U: uppercase the next word.
