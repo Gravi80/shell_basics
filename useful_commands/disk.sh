@@ -1,0 +1,1 @@
+mount | column -t : Lists mounted file system, in nice formatting with specification.
