@@ -30,7 +30,7 @@ $echo {{yellow,red}_color,blue,green}
 $ cp -v /home/f/F/RoR/sample_config_file.conf  /home/f/F/RoR/sample_config_file.conf.bak
 $ cp -v /home/f/F/RoR/sample_config_file.conf{,.bak}
 
-`/home/f/F/RoR/sample_config_file.conf' -> `/home/f/F/RoR/sample_config_file.conf.bak'
+'/home/f/F/RoR/sample_config_file.conf' -> '/home/f/F/RoR/sample_config_file.conf.bak'
 
 
 
