@@ -1,0 +1,14 @@
+Reference => http://blog.jpalardy.com/posts/skip-grep-use-awk/
+http://blog.jpalardy.com/posts/awk-tutorial-part-1/
+http://ferd.ca/awk-in-20-minutes.html
+
+$ [data is generated] | grep something | awk '{print $2}'
+
+It can be shortened to:
+$ [data is generated] | awk '/something/ {print $2}'
+
+
+Invert Match
+============
+$ [data is generated] | awk '/something/ {next} 1'
+$ [data is generated] | awk '! /something/'
