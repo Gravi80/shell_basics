@@ -34,10 +34,3 @@ for name in "${names[@]}"; do
 done
 
 
-
-
-
-
-
-
-
